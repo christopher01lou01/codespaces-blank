@@ -1,0 +1,29 @@
+#title {
+    text-align: center;
+}
+.weather_card {
+    border-radius: 12px;
+    margin: 15px;
+    background-color: white;
+    width: 200px;
+    margin: 10px;
+    padding: 30px 40px;
+
+}
+.weather_app {
+    background-color: gray;
+}
+.day {
+    text-align: center;
+    margin: 10px;
+}
+.temperature {
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+}
+.condition {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+}
